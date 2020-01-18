@@ -1,10 +1,10 @@
 # SIMILARITY MEASURE AMONG TEXTUAL DATA.
 
+**AIM:**  Calculate the similarity between the documents using various techniques such as Jaccard Distance, Dice Index, Cosine Similarity, etc.
+
 Programming Language: Python 3.x
 
 IDE: Jupyter
-
-**AIM:**  Calculate the similarity between the documents using various techniques such as Jaccard Distance, Dice Index, Cosine Similarity, etc.
 
 **Tasks:**
 1. Make up your own set of word features describing 6 different entities; with some obvious overlaps and
