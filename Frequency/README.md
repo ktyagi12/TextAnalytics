@@ -1,5 +1,7 @@
 # SIMPLE FREQUENCIES
 
+WordCloud Generation Tool: R
+
 **AIM:** To familiarize with the term frequencies, word cloud, n-grams, normalization of frequencies.
 
 **TASKS:**
@@ -36,4 +38,4 @@ c. Does normalising by method1 or method2 make a big difference to the scores pr
 
 ![image](https://user-images.githubusercontent.com/38240162/72670832-5530d800-3a3a-11ea-81a2-32a6037ff1c6.png)
 
-**Conclusions:** 
+**Conclusions:** Term Frequencies, N-grams Implementation with their applications of examples are shown above using R.
