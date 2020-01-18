@@ -1,8 +1,8 @@
 # SIMPLE FREQUENCIES
 
-WordCloud Generation Tool: R
-
 **AIM:** To familiarize with the term frequencies, word cloud, n-grams, normalization of frequencies.
+
+**Requirements:** WordCloud Generation Tool: R
 
 **TASKS:**
 1) Load up the various packages you need for using the wordcloud packages in R:
