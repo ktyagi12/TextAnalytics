@@ -7,9 +7,8 @@
 **Tasks:** 
 
 1. Have a look at the simple k-means program you have been given. Note,it can look for clusters of different ks; but for plotting purposes it fixed to look for k=3. The program can work from a randomly generated set of points or a defined set.
-
-  a. Use the init_board fn to randomly generate 15 points; store this output and set the data variable to it.
-     Now run this set 10 times and note the clusters found by k-means. Report the results of these runs and the extent to which the same clusters are found.
+a. Use the init_board fn to randomly generate 15 points; store this output and set the data variable to it.
+Now run this set 10 times and note the clusters found by k-means. Report the results of these runs and the extent to which the same clusters are found.
 
 2. Now, create you own set of data, again with 15 points. You should construct this data-set to have very clear clusters (a bit like the simple 6-point example shown). Now run this set 20 times and note the clusters found by k-means.
 
