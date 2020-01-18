@@ -1,6 +1,7 @@
 # Text Analytics
 
 Tools Used: Jupyter Notebook
+
 Programming Language Used: Python 3.x
 
 Text Analytics aims to cover how text analytics is currently used to find important regularities and discover meaning in big data. Here we will cover the fundamental techniques and their implementation with their applications areas where text analytics is deployed.
