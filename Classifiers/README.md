@@ -8,6 +8,7 @@ IDE: Jupyter
 **1. K-NN:**
 a. Supervised Machine Learning algorithm,k-NN, applied to the famous Iris Data set.Two parameters are interesting: 
 (i) the split which is the size of the training subset v test subset (split = .67) means roughly 2/3rds training, 1/3rd testing.
+
 (ii) k which is the size of nearest neighbors. Note, the Accuracy of model is determined for test sets; it measures how well it classifications work for the unseen set.
 
 b. Taking ideas about cross-validation into account; systematically vary the size of the split; exploring a decent number of other values for it >0.0 and <0.9. Also systematically vary k on five selected values between 1 and 20.
