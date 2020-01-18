@@ -45,13 +45,12 @@ terms like kerala, kochi, web,design are most frequent among the documents.
 
 ![image](https://user-images.githubusercontent.com/38240162/72670207-e7cd7900-3a32-11ea-9125-8967f4afb4fe.png)
 
-**PMI Score:** PMI is defined as the measure of association. It measures how much more likely the words co-occur than if they were independent in the text.
-It is calculated as: PMI(word1, word2) = Probability(word1, word2)/ Prob(word1) P(Word2).
+**PMI Score:** PMI is defined as the measure of association. It measures how much more likely the words co-occur than if they were independent in the text. It is calculated as: PMI(word1, word2) = Probability(word1, word2)/ Prob(word1) P(Word2).
 PMI is calculated by nltk.collocations.BigramAssocMeasures() module
 
 **Entropy:** Entropy is defined as the sum of the probability of each label times the log probability of that same
 label, written as H(A) = -sum(p * log(p), axis=0). It is a measure of randomness of all the words.
 
 **Conclusion:**
-Term Frequencies/ Inverse Document Frequency Implementation with their applications of examples are mentioned above.
+Term Frequencies / Inverse Document Frequency Implementation with their applications of examples are implemented in Python with word clouds generated using R.
 
