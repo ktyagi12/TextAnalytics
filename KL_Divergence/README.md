@@ -48,8 +48,8 @@ So, to avoid such drawbacks, Instead of using the common terms, whole vocabulary
 
 To avoid such values of KL Divergence, hyper parameters are used:
 
-	Epsilon: It is defined as the probability of a term which is not in a document. It is set to a small value instead of 0 to avoid the distance to be infinite. It is a value less than the minimum term probability occurring in either of the documents. Every word in the document is assigned a threshold probability instead of only to the common words.
+**Epsilon:** It is defined as the probability of a term which is not in a document. It is set to a small value instead of 0 to avoid the distance to be infinite. It is a value less than the minimum term probability occurring in either of the documents. Every word in the document is assigned a threshold probability instead of only to the common words.
 	
-  Gamma: It is defined as a normalization coefficient to account of epsilon, so a probability of a term in a category satisfies the properties of a probability (sum to 1).
+**Gamma:** It is defined as a normalization coefficient to account of epsilon, so a probability of a term in a category satisfies the properties of a probability (sum to 1).
 
 **Conclusion:** KL- Divergence between documents is calculated and shown above with examples.
