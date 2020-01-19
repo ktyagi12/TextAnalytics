@@ -17,6 +17,8 @@ according to the F1 measure?
 
 **Confusion Matrix:** It is defined as a table used to describe the performance of the model. It allows visualization of the algorithm’s performance. It consists both Predicted as well as Actual classes. 
 
+![image](https://user-images.githubusercontent.com/38240162/72673351-2843eb80-3a61-11ea-9025-aa52b232302f.png)
+
 **True Positive (TP):** A true positive is an outcome where the model correctly predicts the positive class. Observation is positive, and is predicted to be positive also.
 
 **False Positive (FP):** A false positive is an outcome where the model incorrectly predicts the positive class. Observation is negative, but is predicted positive. 
@@ -57,3 +59,4 @@ DET Curve is shown below for the Election-Non-Election tweets classifier with lo
 
 
  **Conclusion:**
+Graphs evaluates the classifier’s performance. Also, Precision, Recall, F1 measure along with other parameters like True Positive, False Positive, Falsee Negative, True Negative are calculated with the given sample input is shown above.
