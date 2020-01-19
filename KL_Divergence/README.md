@@ -1,4 +1,4 @@
-**AIM:** SENTIMENT USE
+**AIM:** SENTIMENT USE BY K-L DIVERGENCE
 
 Programming Language: Python 3.x
 
